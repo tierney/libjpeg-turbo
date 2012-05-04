@@ -42,3 +42,6 @@ tjbenchtest
 tjexampletest
 tjunittest
 wrjpgcom
+
+.project
+.cproject
